@@ -1,0 +1,9 @@
+.menu_ul{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+
+    .li{
+        margin-right: 20px;
+    }
+}
